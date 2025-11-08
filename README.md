@@ -1,3 +1,13 @@
-# `@next/swc-darwin-arm64`
+# `react-separator`
 
-This is the **aarch64-apple-darwin** binary for `@next/swc`
+## Installation
+
+```sh
+$ yarn add @radix-ui/react-separator
+# or
+$ npm install @radix-ui/react-separator
+```
+
+## Usage
+
+View docs [here](https://radix-ui.com/primitives/docs/components/separator).
